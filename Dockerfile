@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM docker-remote.artifacts.developer.gov.bc.ca/ubuntu:latest
 
 MAINTAINER Jeffery Bagirimvano <jeffery.rukundo@gmail.com>
 
